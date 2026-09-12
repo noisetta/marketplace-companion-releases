@@ -64,6 +64,16 @@ Release checksums are provided alongside the APK. Verify the SHA-256 checksum be
 
 Marketplace Companion includes no advertising or analytics SDKs. Facebook content is displayed through an embedded Android WebView. Full details are available in the [Privacy Policy](https://noisetta.github.io/marketplace-companion/privacy/).
 
+## Support
+
+Marketplace Companion is free to use and independently maintained.
+
+If you find it useful and would like to support continued development:
+
+[Support noisetta on Ko-fi](https://ko-fi.com/noisetta)
+
+Support is entirely optional.
+
 ## Developer
 
 Developer: [noisetta](https://github.com/noisetta)<br>
